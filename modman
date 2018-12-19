@@ -1,0 +1,10 @@
+app/code/core/Enterprise/CatalogPermissions
+app/design/frontend/enterprise/default/layout/catalogpermissions.xml
+app/design/frontend/rwd/enterprise/layout/catalogpermissions.xml
+app/design/adminhtml/default/default/layout/enterprise/catalogpermissions.xml
+app/design/adminhtml/default/default/template/enterprise/catalogpermissions
+app/locale/en_US/Enterprise_CatalogPermissions.csv
+app/locale/en_GB/Enterprise_CatalogPermissions.csv
+app/etc/modules/Enterprise_CatalogPermissions.xml
+js/enterprise/adminhtml/catalogpermissions-config.js
+js/enterprise/adminhtml/catalogpermissions.js
